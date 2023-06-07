@@ -1,6 +1,6 @@
 # Deploy
 ```
-docker run -d --name navicat-ntunnel-mysql -p 80:80 navicat-ntunnel-mysql
+docker run -d --name navicat-ntunnel-mysql -p 80:80 mocobk/navicat-ntunnel-mysql
 ```
 
 https://github.com/mocobk/navicat-ntunnel-mysql
